@@ -27,4 +27,4 @@ See screenshots folder.
 
 ## Author
 
-Your Name
+Aayush
